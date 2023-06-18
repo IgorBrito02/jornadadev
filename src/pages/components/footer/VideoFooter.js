@@ -7,11 +7,11 @@ function VideoFooter() {
     <div className='videoFooter'>
         <div className='videoFooter__text'>
             <h3>Igor Brito</h3>
-            <p>Descrição do Video</p>
+            <p>O pulo do gato <strong> #foryou #fy</strong></p>
             <div className="videoFooter__music">
                 <MusicNoteIcon className="videoFooter__icon" />
                 <div className="videoFooterMusic__text">
-                    <p>Titulo da musica</p>
+                    <p>original song by Igor Brito</p>
                 </div>
                 
             </div>
